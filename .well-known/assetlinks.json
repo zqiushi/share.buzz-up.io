@@ -1,12 +1,15 @@
-[{
-  "relation": [
-    "delegate_permission/common.handle_all_urls"
-  ],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.chainon.lsyim",
-    "sha256_cert_fingerprints": [
-      "48:B8:19:8A:93:06:7C:B2:4E:62:29:AD:6B:2F:6A:2D:0D:EE:39:BA:13:D2:67:64:4A:76:9F:82:9D:26:46:C1"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.chainon.lsyim",
+      "sha256_cert_fingerprints": [
+        "48:B8:19:8A:93:06:7C:B2:4E:62:29:AD:6B:2F:6A:2D:0D:EE:39:BA:13:D2:67:64:4A:76:9F:82:9D:26:46:C1",
+        "3C:C2:BA:D5:E8:B8:83:4A:9E:3E:B3:63:49:70:98:B0:E3:CC:1F:C4:3E:46:B8:E5:AB:A3:C9:47:C6:33:6E:C9"
+      ]
+    }
   }
-}]
+]
